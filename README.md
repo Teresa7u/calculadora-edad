@@ -5,7 +5,7 @@ Aplicación web que calcula la edad a partir de la fecha de nacimiento ingresada
 
 Prueba en vivo.
 
-https://madisonsosa.github.io/Age-Calculator/
+https://teresagonzalez26.github.io/Calculadora-de-edad/
 
 
 Contenido del repositorio.
